@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="142" viewBox="0 0 1024 142">
+    <defs>
+        <path id="a" d="M0 0h1024v142H0z"/>
+        <path id="d" d="M750.026 151.026h482.967v482.967H750.026z"/>
+        <filter id="c" width="102.9%" height="102.9%" x="-1.4%" y="-1%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0470588235 0 0 0 0 0.0901960784 0 0 0 0 0.37254902 0 0 0 0.1 0"/>
+        </filter>
+        <filter id="e" width="102.9%" height="102.9%" x="-1.4%" y="-1%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="2"/>
+            <feOffset dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.0470588235 0 0 0 0 0.0901960784 0 0 0 0 0.37254902 0 0 0 0.1 0"/>
+        </filter>
+        <path id="g" d="M114.026 100.026h482.967v482.967H114.026z"/>
+        <filter id="f" width="102.9%" height="102.9%" x="-1.4%" y="-1%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0470588235 0 0 0 0 0.0901960784 0 0 0 0 0.37254902 0 0 0 0.1 0"/>
+        </filter>
+        <path id="i" d="M1214.026 671.026h482.967v482.967h-482.967z"/>
+        <filter id="h" width="102.9%" height="102.9%" x="-1%" y="-1.9%" filterUnits="objectBoundingBox">
+            <feOffset dx="2" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0470588235 0 0 0 0 0.0901960784 0 0 0 0 0.37254902 0 0 0 0.1 0"/>
+        </filter>
+        <path id="k" d="M100.026 770.026h482.967v482.967H100.026z"/>
+        <filter id="j" width="102.9%" height="102.9%" x="-1.4%" y="-1%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0470588235 0 0 0 0 0.0901960784 0 0 0 0 0.37254902 0 0 0 0.25 0"/>
+        </filter>
+        <path id="m" d="M1169.792 481.761h234.413v212.474h-234.413z"/>
+        <filter id="l" width="106%" height="106.6%" x="-3.8%" y="-2.4%" filterUnits="objectBoundingBox">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0470588235 0 0 0 0 0.0901960784 0 0 0 0 0.37254902 0 0 0 0.1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M0-65h1024v2678H0z"/>
+        <g>
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#FFF" xlink:href="#a"/>
+            <g mask="url(#b)">
+                <path fill="#0371CE" d="M0 296h1024V-7H0z"/>
+                <path fill="#076FC6" d="M654 173.51L819.755 7.753l150.242 150.242-165.755 165.755z" opacity=".95" style="mix-blend-mode:multiply"/>
+                <g opacity=".853" transform="rotate(-45 125.316 469.298)">
+                    <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+                    <use fill="#1A84DE" style="mix-blend-mode:multiply" xlink:href="#d"/>
+                    <use fill="#000" filter="url(#e)" xlink:href="#d"/>
+                </g>
+                <g transform="rotate(-45 -510.684 418.298)">
+                    <use fill="#000" filter="url(#f)" xlink:href="#g"/>
+                    <use fill="#0378DC" xlink:href="#g"/>
+                </g>
+                <g opacity=".853" transform="rotate(-45 589.316 989.298)">
+                    <use fill="#000" filter="url(#h)" xlink:href="#i"/>
+                    <use fill="#1781DB" style="mix-blend-mode:multiply" xlink:href="#i"/>
+                </g>
+                <g transform="rotate(-45 -524.684 1088.298)">
+                    <use fill="#000" filter="url(#j)" xlink:href="#k"/>
+                    <use fill="#0F64BA" xlink:href="#k"/>
+                </g>
+                <g opacity=".95" transform="rotate(-45 420.805 664.787)">
+                    <use fill="#000" filter="url(#l)" xlink:href="#m"/>
+                    <use fill="#0371CE" xlink:href="#m"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

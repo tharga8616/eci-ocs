@@ -1,0 +1,13 @@
+<weblogic-web-app xmlns="http://xmlns.oracle.com/weblogic/weblogic-web-app">
+	<session-descriptor>
+		<cookie-secure>true</cookie-secure>
+		<cookie-http-only>true</cookie-http-only>
+		<cookie-path>/oct-web-admin</cookie-path>
+	</session-descriptor>
+
+    <work-manager>
+        <name>NoStuckThread</name>
+        <ignore-stuck-threads>true</ignore-stuck-threads>
+    </work-manager>
+    <wl-dispatch-policy>NoStuckThread</wl-dispatch-policy>
+</weblogic-web-app>

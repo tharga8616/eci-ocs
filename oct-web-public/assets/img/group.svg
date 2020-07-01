@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="90px" height="90px" viewBox="0 0 90 90" enable-background="new 0 0 90 90" xml:space="preserve">
+<g>
+	<g transform="translate(1.393 1.618)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="11.412" y="25.408" width="54.305" height="51.452">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="11.412" y="25.408" width="54.305" height="51.452" id="b_1_">
+			<g filter="url(#Adobe_OpacityMaskFilter)">
+				<path id="a_1_" fill="#FFFFFF" d="M43.47,75.355c17.381,0,31.471-14.182,31.471-31.677S60.851,12,43.471,12
+					C26.09,12,12,26.183,12,43.678S26.09,75.355,43.47,75.355z"/>
+			</g>
+		</mask>
+		<g mask="url(#b_1_)">
+			<path fill="none" stroke="#0371CF" stroke-width="3" d="M36.706,37.757H11.69 M26.427,49.599H11.412 M36.427,61.441H11.412
+				 M53.345,28.652c2.312-2.312,6.045-2.328,8.344-0.03l0.814,0.816c2.297,2.296,2.283,6.031-0.029,8.343L44.95,55.306l-9.342,0.684
+				l0.212-9.813L53.345,28.652z M36.214,45.782l9.454,9.455"/>
+			<path fill="none" stroke="#0371CF" stroke-width="3" d="M44.365,55.642v21.219 M13.176,27.987h31.19v9.697"/>
+		</g>
+	</g>
+	<g transform="translate(1.393 1.618)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="22" y="65.881" width="8.824" height="8.882">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="22" y="65.881" width="8.824" height="8.882" id="d_1_">
+			<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+				<path id="c_1_" fill="#FFFFFF" d="M43.47,75.355c17.381,0,31.471-14.182,31.471-31.677S60.851,12,43.471,12
+					C26.09,12,12,26.183,12,43.678S26.09,75.355,43.47,75.355z"/>
+			</g>
+		</mask>
+		<ellipse mask="url(#d_1_)" fill="#0371CF" cx="26.412" cy="70.322" rx="4.412" ry="4.441"/>
+	</g>
+	<path fill="none" stroke="#0371CF" stroke-width="3" d="M55.746,30.197l8.535,8.591 M45.163,76.975
+		c17.38,0,31.47-14.184,31.47-31.679S62.544,13.618,45.164,13.618S13.693,27.801,13.693,45.296S27.783,76.975,45.163,76.975z"/>
+</g>
+</svg>

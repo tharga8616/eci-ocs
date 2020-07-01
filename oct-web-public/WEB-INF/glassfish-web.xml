@@ -1,0 +1,16 @@
+<!DOCTYPE glassfish-web-app PUBLIC "-//GlassFish.org//DTD GlassFish Application Server 3.1 Servlet 3.0//EN" "http://glassfish.org/dtds/glassfish-web-app_3_0-1.dtd">
+<glassfish-web-app>
+	<session-config>
+		<cookie-properties>
+			<property name="cookieSecure" value="true" />
+			<property name="cookieHttpOnly" value="true" />
+		</cookie-properties>
+	</session-config>
+
+    <!-- 'resource-Ref' is required for compatibility with tomcat.
+    It's linked with dataSource definition resourceRef:true in rest-services.xml admin/public and services.xml -->
+    <resource-ref>
+        <res-ref-name>jdbc/oct</res-ref-name>
+        <jndi-name>jdbc/oct</jndi-name>
+    </resource-ref>
+</glassfish-web-app>
